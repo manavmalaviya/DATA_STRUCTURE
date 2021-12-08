@@ -1,0 +1,1 @@
+{"name":"Local: subarraywithgivensum","url":"g:\\C++\\DSA\\arrays\\subarraywithgivensum.cpp","tests":[{"id":1638352793903,"input":"10\n1 52 20 42 12 54 50 5 9 56\n62","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++\\DSA\\arrays\\subarraywithgivensum.cpp","group":"local","local":true}

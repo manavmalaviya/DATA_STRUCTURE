@@ -1,0 +1,1 @@
+{"name":"Local: maxsubarray1","url":"g:\\C++\\DSA\\arrays\\maxsubarray1.cpp","tests":[{"id":1638515466594,"input":"5 \n-1 4 -3 7 -5 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++\\DSA\\arrays\\maxsubarray1.cpp","group":"local","local":true}

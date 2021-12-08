@@ -1,0 +1,1 @@
+{"name":"Local: longestarthematicsubarray","url":"g:\\C++\\DSA\\arrays\\longestarthematicsubarray.cpp","tests":[{"id":1637918480418,"input":"5\n2 3 3 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++\\DSA\\arrays\\longestarthematicsubarray.cpp","group":"local","local":true}
